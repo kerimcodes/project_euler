@@ -9,7 +9,7 @@ As a **Mathematical Engineering** student, I maintain this repository to improve
 My goal is to solve problems using both high-level and low-level approaches:
 
 - **Python (`/Python`):** Used for rapid prototyping, logic building, and handling large integers easily.
-- **C (`/C`):** *Coming soon.* Will be implemented to demonstrate low-level memory management and algorithmic optimization.
+- **C (/C):** Low-level solutions focusing on strict type management, memory efficiency, and algorithmic optimization.
 
 ## 🚀 Progress Tracking
 
