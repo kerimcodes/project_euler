@@ -16,9 +16,9 @@ My goal is to solve problems using both high-level and low-level approaches:
 | ID | Problem Title | Python | C |
 | :---: | :--- | :---: | :---: |
 | 001 | Multiples of 3 or 5 | ✅ | ✅ |
-| 002 | Even Fibonacci Numbers | ✅ | 🔜 |
-| 003 | Largest Prime Factor | ✅ | 🔜 |
-| 004 | Largest Palindrome Product | ✅ | 🔜 |
+| 002 | Even Fibonacci Numbers | ✅ | ✅ |
+| 003 | Largest Prime Factor | ✅ | ✅ |
+| 004 | Largest Palindrome Product | ✅ | ✅ |
 | 005 | Smallest Multiple | ✅ | 🔜 |
 | 006 | Sum Square Difference | ✅ | 🔜 |
 | 007 | 10001st Prime | ✅ | 🔜 |

@@ -4,7 +4,7 @@ number = 600851475143
 i = 2
 
 # Loop until i is greater than the square root of the remaining number
-while i * i <= number:
+while number != 1:
     if number % i != 0:
         i += 1
     else:
@@ -13,7 +13,7 @@ while i * i <= number:
         number //= i
 
 # Whatever is left is the largest prime factor
-print(f"The largest prime factor is: {number}")
+print(f"The largest prime factor is: {i}")
         
 
 
