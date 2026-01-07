@@ -24,14 +24,16 @@ My goal is to solve problems using both high-level and low-level approaches:
 | 007 | 10001st Prime | ✅ | ✅ |
 | 008 | Largest Product in a Series | ✅ | ✅ |
 | 009 | Special Pythagorean Triplet | ✅ | ✅ |
-| 010 | Summation of Primes | ✅ | 🔜 |
-| 011 | Largest Product in a Grid | ✅ | 🔜 |
+| 010 | Summation of Primes | ✅ | ✅ |
+| 011 | Largest Product in a Grid | ✅ | ✅ |
 | 012 | Highly Divisible Triangular Number | ✅ | 🔜 |
 | 013 | Large Sum | ✅ | 🔜 |
 | 014 | Longest Collatz Sequence | ✅ | 🔜 |
 | 015 | Lattice Paths | ✅ | 🔜 |
 | 016 | Power Digit Sum | ✅ | 🔜 |
 | 017 | Number Letter Counts | ✅ | 🔜 |
+| 018 | Maximum Path Sum 1 | ✅ | 🔜 |
+| 067 | Maximum Path Sum 2 | ✅ | 🔜 |
 
 ⚠️ Disclaimer
 "Real learning is an active process."
