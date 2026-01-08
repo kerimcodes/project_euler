@@ -14,7 +14,7 @@
 # We can see that 28 is the first triangle number to have over five divisors
 # What is the value of the first triangle number to have over five hundred divisors
 
-import math
+
 
 def count_divisors(n):
 
@@ -45,8 +45,7 @@ while True:
     triangle_number = (n * (n + 1)) // 2
     
     if count_divisors(triangle_number) > 500:
-        print(f"Sıra: {n}")
-        print(f"Üçgensel Sayı: {triangle_number}")
+        print(f"Triangle number: {triangle_number}")
         break
         
     n += 1
