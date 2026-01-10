@@ -108,5 +108,8 @@ matrix = [int(digits) for  digits in row_data.split("\n")]
 sum = 0
 for number in matrix:
     sum += number
+while (sum > 10**10):
+    sum //= 10
 print(sum)
+
 
