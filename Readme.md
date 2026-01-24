@@ -28,11 +28,12 @@ My goal is to solve problems using both high-level and low-level approaches:
 | 011 | Largest Product in a Grid | ✅ | ✅ |
 | 012 | Highly Divisible Triangular Number | ✅ | ✅ |
 | 013 | Large Sum | ✅ | ✅ |
-| 014 | Longest Collatz Sequence | ✅ | 🔜 |
-| 015 | Lattice Paths | ✅ | 🔜 |
+| 014 | Longest Collatz Sequence | ✅ | ✅ |
+| 015 | Lattice Paths | ✅ | ✅ |
 | 016 | Power Digit Sum | ✅ | 🔜 |
 | 017 | Number Letter Counts | ✅ | 🔜 |
 | 018 | Maximum Path Sum 1 | ✅ | 🔜 |
+| 019 | Counting Sundays | ✅ | 🔜 |
 | 067 | Maximum Path Sum 2 | ✅ | 🔜 |
 
 ⚠️ Disclaimer

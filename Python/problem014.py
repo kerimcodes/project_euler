@@ -13,10 +13,10 @@
 
 max = 0
 list = []
-for i in range(1,10**6+1):
-    process_number = 0
+for i in range(700000,1000001):
+    process_number = 1
     using_number = i
-    while (using_number != 1):
+    while (using_number > 1):
         if using_number % 2 == 0:
             using_number /= 2
             process_number +=1
