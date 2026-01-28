@@ -30,10 +30,12 @@ My goal is to solve problems using both high-level and low-level approaches:
 | 013 | Large Sum | ✅ | ✅ |
 | 014 | Longest Collatz Sequence | ✅ | ✅ |
 | 015 | Lattice Paths | ✅ | ✅ |
-| 016 | Power Digit Sum | ✅ | 🔜 |
-| 017 | Number Letter Counts | ✅ | 🔜 |
+| 016 | Power Digit Sum | ✅ | ✅ |
+| 017 | Number Letter Counts | ✅ | ✅ |
 | 018 | Maximum Path Sum 1 | ✅ | 🔜 |
 | 019 | Counting Sundays | ✅ | 🔜 |
+| 020 | Factorial Digit Sum | ✅ | 🔜 |
+| 021 | Ambicable Numbers | ✅ | 🔜 |
 | 067 | Maximum Path Sum 2 | ✅ | 🔜 |
 
 ⚠️ Disclaimer
